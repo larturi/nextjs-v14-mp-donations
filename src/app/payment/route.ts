@@ -1,5 +1,5 @@
 import type {NextRequest} from "next/server";
-import type {MercadoPagoWebhookResponse} from "../types/mercado-pago";
+import type {MercadoPagoWebhookResponse} from "../types/mercado-pago-type";
 
 import {MercadoPagoConfig, Payment} from "mercadopago";
 import {createClient} from "@supabase/supabase-js";
