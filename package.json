@@ -11,6 +11,7 @@
   "dependencies": {
     "@radix-ui/react-label": "^2.0.2",
     "@radix-ui/react-slot": "^1.0.2",
+    "@supabase/supabase-js": "^2.42.0",
     "add": "^2.0.6",
     "autoprefixer": "^10.4.17",
     "class-variance-authority": "^0.7.0",

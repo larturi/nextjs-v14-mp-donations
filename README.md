@@ -7,6 +7,7 @@ PoC donaciones con Mercado Pago y Next.js
 - Next 14
 - Node 20
 - SDK Mercado Pago <https://www.mercadopago.com.ar/developers>
+- Supabase SDK (Table donations) <https://supabase.com/docs/reference/javascript/start>
 
 ### Necesitamos una Url publica para Mercado Pago
 
